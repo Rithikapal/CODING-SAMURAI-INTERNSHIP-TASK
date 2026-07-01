@@ -39,4 +39,5 @@ Also ran into a `FutureWarning` with `df.corr()` — fixed by passing `numeric_o
 pip install pandas matplotlib seaborn
 jupyter notebook Titanic.ipynb
 
-
+---
+*Coding Samurai Data Science Internship — Project 3*
