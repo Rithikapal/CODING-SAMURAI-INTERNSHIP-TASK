@@ -40,24 +40,3 @@ pip install pandas matplotlib seaborn
 jupyter notebook Titanic.ipynb
 
 
----
-
-## Screenshots
-
-<img width="1049" height="924" alt="image" src="https://github.com/user-attachments/assets/b39b43d9-4dbc-44d9-b3bd-e32fc4f489e7" />
-
-<img width="1068" height="702" alt="image" src="https://github.com/user-attachments/assets/ca03af02-77b0-43b3-866b-4c723d568707" />
-
-<img width="1058" height="727" alt="image" src="https://github.com/user-attachments/assets/674c3596-2b1a-449a-9586-3711cad6b4de" />
-
-<img width="1015" height="841" alt="image" src="https://github.com/user-attachments/assets/f0cf9255-d41a-4e98-9283-ad0546b41508" />
-
-<img width="1005" height="830" alt="image" src="https://github.com/user-attachments/assets/ac893ea5-6a0b-4301-8043-50f461fc5281" />
-
-<img width="1086" height="712" alt="image" src="https://github.com/user-attachments/assets/7c28249f-8902-4b89-bad6-5a1d546f5a24" />
-
-<img width="1026" height="879" alt="image" src="https://github.com/user-attachments/assets/11802666-b6e2-44d5-bf09-c6ae930a5d45" />
-
-<img width="539" height="327" alt="image" src="https://github.com/user-attachments/assets/96267ddb-7295-4546-ab34-b2b56a05295a" />
-
----
