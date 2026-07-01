@@ -41,11 +41,6 @@ jupyter notebook Titanic.ipynb
 
 
 ---
-*Coding Samurai Data Science Internship — Project 3*
-
-**Dataset:** Download `train.csv` from [Kaggle Titanic](https://www.kaggle.com/c/titanic/data).
-
----
 
 ## Screenshots
 
