@@ -23,8 +23,9 @@ Taking the EDA from Project 3 further, I built a machine learning model that pre
 
 ## Key Findings
 
-- Model accuracy: **[FILL IN]%**
-- Confusion matrix: **[FILL IN]** correct predictions out of 179 test rows
+- Model accuracy: **78.77%**
+- Confusion matrix:  **141 correct predictions out of 179 test rows (87 true negatives, 54 true 
+positives, 18 false positives, 20 false negatives)**
 - Sex and Title were the strongest predictors of survival
 - Extracting Title gave the model a richer signal than raw gender alone
 
