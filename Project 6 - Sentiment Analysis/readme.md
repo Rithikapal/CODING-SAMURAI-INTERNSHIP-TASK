@@ -24,8 +24,8 @@ I built a sentiment analysis pipeline on a sample of the Sentiment140 dataset �
 
 ## Key Findings
 
-- Sentiment breakdown: **[FILL IN]** Positive / **[FILL IN]** Negative / **[FILL IN]** Neutral
-- Accuracy vs original labels: **[FILL IN]%**
+- Sentiment breakdown: **4354** Positive / **3572** Negative / **2074** Neutral
+- Accuracy vs original labels: **2.47%**
 - TextBlob on raw uncleaned tweets typically lands around 60–68% — expected for rule-based scoring on informal text
 
 ## Challenges
