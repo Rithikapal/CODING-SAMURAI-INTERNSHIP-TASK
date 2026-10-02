@@ -22,7 +22,7 @@ I explored the Titanic dataset (891 passengers) to understand what factors influ
 
 ## Key Findings
 
-- Overall survival rate: **[FILL IN]%**
+- Overall survival rate: **38.38%**
 - Female survival rate was significantly higher than male
 - 1st class passengers survived at a much higher rate than 3rd class
 - Fare was positively correlated with survival; Pclass was negatively correlated
